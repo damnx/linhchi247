@@ -1,0 +1,148 @@
+.div-img-menu {
+    height: 175px;
+    #float: left;
+    overflow: hidden;
+}
+.gallery-news-1 {
+    height: 450px;
+    overflow: hidden;
+}
+.gallery-news-2 {
+    height: 450px;
+    overflow: hidden;
+}
+.gallery-news-2-1 {
+   height: 254.5px;
+    overflow: hidden;
+}
+.gallery-news-2-2 {
+	padding: 2px;
+	height: 194.5px;
+	overflow: hidden;
+}
+
+.photo-product {
+	height:230px;
+}
+.thumb-category-post {
+	height: 249px;
+}
+@media (max-width: 1024px) {
+	.thumb-category-post {
+		height: 215px;
+	}
+}
+@media (max-width: 991px) {
+	.photo-product {
+		height: 158px;
+	}
+	.thumb-category-post {
+		height: 175px;
+	}
+}
+@media only screen and (max-width: 800px) {
+
+}
+@media (max-width:767px)
+{
+	.title-feature-new h2 {
+		font-size: 16px;
+	}
+	.info-feature-new h3 {
+		font-size: 1em;
+	}
+	.photo-product {
+		height: 228px;
+	}
+	.gallery-news-1 {
+		height: 240px;
+	}
+	.thumb-category-post {
+		height: 400px;
+	}
+
+}
+
+@media only screen and (max-width: 700px) {
+	.gallery-news-1 {
+		height: 225px;
+	}
+	.thumb-category-post {
+		height: 350px;
+	}
+}
+@media only screen and (max-width: 650px) {
+	.gallery-news-1 {
+		height: 208px;
+	}
+	.thumb-category-post {
+		height: 250px;
+	}
+}
+@media only screen and (max-width: 600px) {
+	.gallery-news-1 {
+		height: 188px;
+	}
+	.thumb-category-post {
+		height: 180px;
+	}
+
+}
+@media only screen and (max-width: 568px) {
+	.photo-product {
+		height: 208px;
+	}
+	.gallery-news-1 {
+		height: 175px;
+	}
+	.thumb-category-post {
+		height: 166px;
+	}
+}
+@media only screen and (max-width: 480px) {
+	.photo-product {
+		height: 188px;
+	}
+	.gallery-news-1 {
+		height: 155px;
+	}
+	.thumb-category-post {
+		height: 200px;
+	}
+}
+
+@media only screen and (max-width: 415px) {
+	.photo-product {
+		height: 150px;
+	}
+	.gallery-news-1 {
+		height: 140px;
+	}
+	.thumb-category-post {
+		height: 200px;
+	}
+}
+
+@media only screen and (max-width: 360px) {
+	.photo-product {
+		height: 135px;
+	}
+	.gallery-news-1 {
+		height: 130px;
+	}
+	.thumb-category-post {
+		height: 190px;
+	}
+}
+
+@media only screen and (max-width: 330px) {
+	.photo-product {
+		height: 120px;
+	}
+	.gallery-news-1 {
+		height: 120px;
+	}
+	.thumb-category-post {
+		height: 160px;
+	}
+}
